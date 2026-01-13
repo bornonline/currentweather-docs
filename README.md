@@ -5,9 +5,9 @@
 We don't average everything and hope.  
 We decide what's *current* **per field**, using explicit rules, validation gates, and clearly labeled sources.
 
-🌐 **Live Site:** https://currentweather.info  
-📚 **Methodology:** https://currentweather.info/methodology  
-🔧 **Technical Updates:** https://realweather.org/updates
+🌐 **Live Site:** https://CurrentWeather.info  
+📚 **Methodology:** https://CurrentWeather.info/methodology  
+🔧 **Technical Updates:** https://RealWeather.org/updates
 
 ---
 
